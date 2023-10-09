@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#RStudio Project file
+*.Rproj
+inst/doc
+/doc/
+/Meta/
