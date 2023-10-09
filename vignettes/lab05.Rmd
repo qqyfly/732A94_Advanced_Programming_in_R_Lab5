@@ -16,7 +16,7 @@ The `lab05` an API package along with a shiny app .This vignette serves as a gui
 To install the `lab05` package, use the following commands:
 
 ```{r install-linreg-package, eval=FALSE}
-devtools::install_github("qqyfly/732A94_Advanced_Programming_in_R_Lab5", build_vignettes = TRUE)
+devtools::install_github("qqyfly/732A94_Advanced_Programming_in_R_Lab5")
 library(lab05)
 ```
 
