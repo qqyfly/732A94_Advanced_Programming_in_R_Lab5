@@ -13,7 +13,7 @@ library(shiny)
 library(shinydashboard)
 library(ggplot2)
 
-#' Define server logic 
+#' logic Define server logic to get the data and render the UI object
 shinyServer(
   function(input, output) {
     # 1st tab for kolada_municipality_kpi_groups api test
